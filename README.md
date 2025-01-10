@@ -4,12 +4,14 @@
 **Regista:**
 - As luzes adicionadas à cena.
 
-R: 
+R: 4 luzes uma na porta lateral vermelha, duas atras nas cadeiras azuis ,  uma luz d ambiente no candeiro
 
 - As modificações feitas à iluminação ambiente ou à Skybox
 
-R:
+R: foram fito tanto na emisao quanto com o sky box ou o baking
 
-- Outras alterações à iluminação que aplicaste
+- Outras alterações à Iluminada que aplicaste
 
-R:
+R: nunhuma em especifico
+
+  este trabalhao com todos as etapas dee avalicao que nessesita
